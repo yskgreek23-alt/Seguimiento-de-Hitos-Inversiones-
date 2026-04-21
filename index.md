@@ -1,4 +1,4 @@
-[Dashboard_Inversiones_21-4-2026_0231 p. m..html](https://github.com/user-attachments/files/26945653/Dashboard_Inversiones_21-4-2026_0231.p.m.html)
+[Dashboard_Inversiones_21-4-2026_0337 p. m..html](https://github.com/user-attachments/files/26946592/Dashboard_Inversiones_21-4-2026_0337.p.m.html)
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -48,7 +48,7 @@
 
       const rawData = [{"programa":"JICA I","localizacion":"PIURA I","cui":"2253933","componente":"OBRA","subComponente":"EJECUCIÓN DE CONTRATO: SUPERVISIÓN","monto":100000,"hito":"Presentación de valorización por parte del contratista","fInicio":"02/04/2026","fFin":"07/04/2026","estado":"-18","comentario":"El hito no estaba programado pero informaron que se devengaría en abril, por lo que pesé a que no enviaron reporte, se verifica en el formato F-19 a cierre 17.04.2026, que se hizo un devengado por 2.5 M."},{"programa":"JICA I","localizacion":"PIURA I","cui":"2253933","componente":"OBRA","subComponente":"EJECUCIÓN DE CONTRATO: SUPERVISIÓN","monto":0,"hito":"Revisión y presentación de la valorización por parte de la supervisión a la entidad","fInicio":"07/04/2026","fFin":"09/04/2026","estado":"-13","comentario":""},{"programa":"JICA I","localizacion":"PIURA I","cui":"2253933","componente":"OBRA","subComponente":"EJECUCIÓN DE CONTRATO: SUPERVISIÓN","monto":0,"hito":"Emisión del informe de aprobación por parte del Administrador de Contratos","fInicio":"09/04/2026","fFin":"19/04/2026","estado":"-11","comentario":""},{"programa":"JICA I","localizacion":"PIURA I","cui":"2253933","componente":"OBRA","subComponente":"EJECUCIÓN DE CONTRATO: SUPERVISIÓN","monto":0,"hito":"Remisión a Administración del expediente de la valorización para su trámite de pago","fInicio":"19/04/2026","fFin":"24/04/2026","estado":"-1","comentario":""},{"programa":"JICA I","localizacion":"PIURA I","cui":"2253933","componente":"OBRA","subComponente":"EJECUCIÓN DE CONTRATO: SUPERVISIÓN","monto":0,"hito":"Devengado","fInicio":"24/04/2026","fFin":"26/04/2026","estado":"4","comentario":""},{"programa":"JICA I","localizacion":"HUANUCO I","cui":"2189704","componente":"EJECUCIÓN FÍSICA SALDO DE OBRA","subComponente":"EJECUCIÓN DE CONTRATO SALDO","monto":113880.23,"hito":"Presentación de valorización por parte del contratista","fInicio":"01/04/2026","fFin":"06/04/2026","estado":"-19","comentario":"No enviaron infornación del hito "},{"programa":"JICA I","localizacion":"HUANUCO I","cui":"2189704","componente":"EJECUCIÓN FÍSICA SALDO DE OBRA","subComponente":"EJECUCIÓN DE CONTRATO SALDO","monto":0,"hito":"Revisión y presentación de la valorización por parte de la supervisión a la entidad","fInicio":"06/04/2026","fFin":"08/04/2026","estado":"-14","comentario":""},{"programa":"JICA I","localizacion":"HUANUCO I","cui":"2189704","componente":"EJECUCIÓN FÍSICA SALDO DE OBRA","subComponente":"EJECUCIÓN DE CONTRATO SALDO","monto":0,"hito":"Emisión del informe de aprobación por parte del Administrador de Contratos","fInicio":"08/04/2026","fFin":"18/04/2026","estado":"-12","comentario":""},{"programa":"JICA I","localizacion":"HUANUCO I","cui":"2189704","componente":"EJECUCIÓN FÍSICA SALDO DE OBRA","subComponente":"EJECUCIÓN DE CONTRATO SALDO","monto":0,"hito":"Remisión a Administración del expediente de la valorización para su trámite de pago","fInicio":"18/04/2026","fFin":"23/04/2026","estado":"-2","comentario":""},{"programa":"JICA I","localizacion":"HUANUCO I","cui":"2189704","componente":"EJECUCIÓN FÍSICA SALDO DE OBRA","subComponente":"EJECUCIÓN DE CONTRATO SALDO","monto":0,"hito":"Devengado","fInicio":"23/04/2026","fFin":"25/04/2026","estado":"3","comentario":""},{"programa":"JICA I","localizacion":"HUANUCO I","cui":"2189704","componente":"SUPERVISIÓN SALDO","subComponente":"EJECUCIÓN DE CONTRATO","monto":10500,"hito":"Presentación de valorización por parte del contratista","fInicio":"02/04/2026","fFin":"07/04/2026","estado":"-18","comentario":"No enviaron infornación del hito "},{"programa":"JICA I","localizacion":"HUANUCO I","cui":"2189704","componente":"SUPERVISIÓN SALDO","subComponente":"EJECUCIÓN DE CONTRATO","monto":0,"hito":"Revisión y presentación de la valorización por parte de la supervisión a la entidad","fInicio":"07/04/2026","fFin":"09/04/2026","estado":"-13","comentario":""},{"programa":"JICA I","localizacion":"HUANUCO I","cui":"2189704","componente":"SUPERVISIÓN SALDO","subComponente":"EJECUCIÓN DE CONTRATO","monto":0,"hito":"Emisión del informe de aprobación por parte del Administrador de Contratos","fInicio":"09/04/2026","fFin":"19/04/2026","estado":"-11","comentario":""},{"programa":"JICA I","localizacion":"HUANUCO I","cui":"2189704","componente":"SUPERVISIÓN SALDO","subComponente":"EJECUCIÓN DE CONTRATO","monto":0,"hito":"Remisión a Administración del expediente de la valorización para su trámite de pago","fInicio":"19/04/2026","fFin":"24/04/2026","estado":"-1","comentario":""},{"programa":"JICA I","localizacion":"HUANUCO I","cui":"2189704","componente":"SUPERVISIÓN SALDO","subComponente":"EJECUCIÓN DE CONTRATO","monto":0,"hito":"Devengado","fInicio":"24/04/2026","fFin":"26/04/2026","estado":"4","comentario":""},{"programa":"JICA II","localizacion":"AZANGARO II","cui":"2311564","componente":"SUPERVISION","subComponente":"LIQUIDACION","monto":40260,"hito":"Presentación de valorización por parte del contratista","fInicio":"05/04/2026","fFin":"20/04/2026","estado":"-15","comentario":""},{"programa":"JICA II","localizacion":"AZANGARO II","cui":"2311564","componente":"SUPERVISION","subComponente":"LIQUIDACION","monto":0,"hito":"Devengado","fInicio":"20/04/2026","fFin":"25/04/2026","estado":"No definido","comentario":""},{"programa":"JICA II","localizacion":"PAITA II","cui":"2320372","componente":"SUPERVISION","subComponente":"PRORROGA DE PLAZO 1,2 Y 3","monto":72777,"hito":"Remisión a Administración del expediente de la valorización para su trámite de pago","fInicio":"05/04/2026","fFin":"10/04/2026","estado":"-15","comentario":""},{"programa":"JICA II","localizacion":"PAITA II","cui":"2320372","componente":"SUPERVISION","subComponente":"PRORROGA DE PLAZO 1,2 Y 3","monto":0,"hito":"Devengado","fInicio":"10/04/2026","fFin":"25/04/2026","estado":"-10","comentario":""},{"programa":"JICA II","localizacion":"MOYOBAMBA II","cui":"2317388","componente":"OBRA","subComponente":"VALORIZACION N° 06","monto":564159,"hito":"Presentación de Informe de supervisión (mes)","fInicio":"10/04/2026","fFin":"15/04/2026","estado":"-10","comentario":""},{"programa":"JICA II","localizacion":"MOYOBAMBA II","cui":"2317388","componente":"OBRA","subComponente":"VALORIZACION N° 06","monto":0,"hito":"Remisión a Administración del Informe de Supervisión para su trámite de pago","fInicio":"15/04/2026","fFin":"30/04/2026","estado":"-5","comentario":""},{"programa":"JICA II","localizacion":"MOYOBAMBA II","cui":"2317388","componente":"OBRA","subComponente":"MAYORES METRADOS 3 (VAL 2)","monto":0,"hito":"Devengado","fInicio":"07/04/2026","fFin":"30/04/2026","estado":"-13","comentario":""},{"programa":"JICA II","localizacion":"MOYOBAMBA II","cui":"2317388","componente":"SUPERVISION","subComponente":"VALORIZACION N° 05","monto":0,"hito":"Devengado","fInicio":"15/04/2026","fFin":"30/04/2026","estado":"-5","comentario":""},{"programa":"JICA II","localizacion":"TUMBES II","cui":"2323393","componente":"OBRA","subComponente":"VALORIZACION N° 09","monto":179019,"hito":"Presentación de valorización por parte del contratista","fInicio":"01/04/2026","fFin":"04/04/2026","estado":"-19","comentario":""},{"programa":"JICA II","localizacion":"TUMBES II","cui":"2323393","componente":"OBRA","subComponente":"VALORIZACION N° 09","monto":0,"hito":"Devengado","fInicio":"05/04/2026","fFin":"08/04/2026","estado":"-15","comentario":""},{"programa":"JICA II","localizacion":"NUEVO CHIMBOTE II","cui":"2333916","componente":"SUPERVISION","subComponente":"PRORROGA DE PLAZO","monto":59719.8,"hito":"Devengado","fInicio":"10/04/2026","fFin":"25/04/2026","estado":"-10","comentario":""},{"programa":"JICA II","localizacion":"JULIACA II","cui":"1000000","componente":"OBRA","subComponente":"VARIACIÓN N°03 ","monto":132646.1,"hito":"Presentación de valorización por parte del contratista","fInicio":"06/04/2026","fFin":"11/04/2026","estado":"-14","comentario":""},{"programa":"JICA II","localizacion":"JULIACA II","cui":"1000000","componente":"OBRA","subComponente":"VARIACIÓN N°03 ","monto":0,"hito":"Devengado","fInicio":"26/04/2026","fFin":"28/04/2026","estado":"6","comentario":""},{"programa":"JICA II","localizacion":"JULIACA II","cui":"1000000","componente":"OBRA","subComponente":"VARIACIÓN N°05","monto":151506.72,"hito":"Presentación de valorización por parte del contratista","fInicio":"01/04/2026","fFin":"06/04/2026","estado":"-19","comentario":""},{"programa":"JICA II","localizacion":"JULIACA II","cui":"1000000","componente":"OBRA","subComponente":"VARIACIÓN N°05","monto":0,"hito":"Devengado","fInicio":"26/04/2026","fFin":"28/04/2026","estado":"6","comentario":""},{"programa":"JICA II","localizacion":"JULIACA II","cui":"1000000","componente":"OBRA","subComponente":"VALORIZACION N° 10","monto":1026347.304,"hito":"Devengado","fInicio":"26/04/2026","fFin":"28/04/2026","estado":"6","comentario":""},{"programa":"JICA II","localizacion":"JULIACA II","cui":"1000000","componente":"SUPERVISION","subComponente":"VALORIZACION N° 10","monto":105568.56,"hito":"Presentación de Informe de supervisión (mes)","fInicio":"10/04/2026","fFin":"15/04/2026","estado":"-10","comentario":""},{"programa":"REACTIVACION ECONOMICA","localizacion":"YANAHUARA","cui":"2574933","componente":"OBRA","subComponente":"EJECUCIÓN DE CONTRATO: SUPERVISIÓN","monto":133643.09,"hito":"Presentación de Informe de supervisión marzo ","fInicio":"01/04/2026","fFin":"08/04/2026","estado":"-19","comentario":"Aun no informan el estado del Hito"},{"programa":"REACTIVACION ECONOMICA","localizacion":"YANAHUARA","cui":"2574933","componente":"OBRA","subComponente":"EJECUCIÓN DE CONTRATO: SUPERVISIÓN","monto":0,"hito":"Remisión a Administración del Informe de Supervisión para su trámite de pago","fInicio":"08/04/2026","fFin":"18/04/2026","estado":"-12","comentario":""},{"programa":"REACTIVACION ECONOMICA","localizacion":"YANAHUARA","cui":"2574933","componente":"OBRA","subComponente":"EJECUCIÓN DE CONTRATO: SUPERVISIÓN","monto":0,"hito":"Remisión a Administración del expediente de la valorización para su trámite de pago","fInicio":"18/04/2026","fFin":"23/04/2026","estado":"-2","comentario":""},{"programa":"REACTIVACION ECONOMICA","localizacion":"YANAHUARA","cui":"2574933","componente":"OBRA","subComponente":"EJECUCIÓN DE CONTRATO: SUPERVISIÓN","monto":0,"hito":"Devengado","fInicio":"23/04/2026","fFin":"28/04/2026","estado":"3","comentario":""},{"programa":"REACTIVACION ECONOMICA","localizacion":"YANAHUARA","cui":"2574933","componente":"OBRA","subComponente":"VALORIZACION DE SUPERVISION MARZO","monto":0,"hito":"Devengado","fInicio":"23/04/2026","fFin":"28/04/2026","estado":"3","comentario":"Aun no informan el estado del Hito"},{"programa":"REACTIVACION ECONOMICA","localizacion":"CHANCAY","cui":"2574899","componente":"OBRA","subComponente":"EJECUCIÓN DE CONTRATO: SUPERVISIÓN","monto":517803.86,"hito":"Devengado","fInicio":"23/04/2026","fFin":"28/04/2026","estado":"3","comentario":"Aun no informan el estado del Hito"},{"programa":"REACTIVACION ECONOMICA","localizacion":"CHANCAY","cui":"2574899","componente":"OBRA","subComponente":"EJECUCIÓN DE CONTRATO: SUPERVISIÓN","monto":0,"hito":"-","fInicio":"-","fFin":"-","estado":"-46132","comentario":""},{"programa":"REACTIVACION ECONOMICA","localizacion":"CHANCAY","cui":"2574899","componente":"OBRA","subComponente":"INFORME SUPERV MARZO","monto":0,"hito":"Devengado","fInicio":"23/04/2026","fFin":"28/04/2026","estado":"3","comentario":"Aun no informan el estado del Hito"},{"programa":"REACTIVACION ECONOMICA","localizacion":"CHICLAYO","cui":"1000000","componente":"OBRA","subComponente":"VALORIZACIÓN 17 (MARZO)","monto":1168746.4,"hito":"Devengado","fInicio":"25/04/2026","fFin":"27/04/2026","estado":"5","comentario":"Aun no informan el estado del Hito"},{"programa":"REACTIVACION ECONOMICA","localizacion":"CHICLAYO","cui":"1000000","componente":"OBRA","subComponente":"1000000","monto":0,"hito":"-","fInicio":"-","fFin":"-","estado":"-46132","comentario":""},{"programa":"REACTIVACION ECONOMICA","localizacion":"CHICLAYO","cui":"1000000","componente":"SUPERVISON","subComponente":"INFORME SUPERV MARZO","monto":0,"hito":"Devengado","fInicio":"25/04/2026","fFin":"27/04/2026","estado":"5","comentario":"Aun no informan el estado del Hito"},{"programa":"REACTIVACION ECONOMICA","localizacion":"SAN JUAN BAUTISTA","cui":"1000000","componente":"GESTION DE OBRA","subComponente":"1000000","monto":11800,"hito":"Devengado","fInicio":"25/04/2026","fFin":"27/04/2026","estado":"5","comentario":"Aun no informan el estado del Hito"}];
       const fechaCorte = "21/4/2026";
-      const horaCorte = "02:31 p. m.";
+      const horaCorte = "03:37 p. m.";
 
       const formatCurrency = (val) => new Intl.NumberFormat('es-PE', { style: 'currency', currency: 'PEN' }).format(val);
       const formatCurrencyShort = (val) => val >= 1000000 ? 'S/' + (val / 1000000).toFixed(1) + 'M' : 'S/' + (val / 1000).toFixed(0) + 'k';
@@ -86,33 +86,28 @@
             let colorClass = 'bg-[#FEF3C7] text-[#92400E] border-[#FDE68A]'; 
             let isVencido = false;
             let estadoPuro = 'EN PLAZO';
-            let estadoDetalle = '';
 
             const st = String(item.estado || '').toLowerCase();
-            const match = st.match(/-?\d+/);
-            const numState = match ? parseInt(match[0], 10) : null;
-            const isNumericState = numState !== null;
+            const isNumericState = !isNaN(st) && st.trim() !== '';
+            const numState = isNumericState ? Number(st) : null;
 
             if (st.includes('vencid') || (isNumericState && numState < 0)) {
               statusGroup = 'Vencido';
               estadoPuro = 'VENCIDO';
               colorClass = 'bg-[#FFE4E6] text-[#BE123C] border-[#FECDD3]';
               isVencido = true;
-              const absNum = isNumericState ? Math.abs(numState) : st.replace(/\D/g, '');
-              estadoDetalle = "-" + absNum + " d";
             } else if (st.includes('vigencia') || (isNumericState && numState >= 0)) {
               statusGroup = 'Vigente';
               estadoPuro = 'EN PLAZO';
               colorClass = 'bg-[#D1FAE5] text-[#065F46] border-[#A7F3D0]'; 
-              const absNum = isNumericState ? Math.abs(numState) : st.replace(/\D/g, '');
-              estadoDetalle = "+" + absNum + " d";
             } else {
               statusGroup = 'Sin Definir';
               estadoPuro = 'NO DEFINIDO';
               colorClass = 'bg-[#F1F5F9] text-[#475569] border-[#E2E8F0]'; 
             }
 
-            return { ...item, estado: estadoPuro, estadoDetalle: estadoDetalle, statusGroup: statusGroup, colorClass: colorClass, isVencido: isVencido };
+            const estadoDetalle = isNumericState ? (numState < 0 ? Math.abs(numState) + ' dias vencidos' : numState + ' dias de vigencia') : String(item.estado || 'No definido');
+            return { ...item, estado: estadoPuro, estadoDetalle, statusGroup, colorClass, isVencido };
           });
         }, []);
 
@@ -612,34 +607,29 @@
                             )}
                           </td>
                           <td className="px-8 py-7">
-                            <div className="flex items-start gap-4">
-                              <div className="p-2.5 bg-[#F5F3FF] rounded-xl border border-[#EDE9FE] shadow-sm shrink-0">
-                                <Calendar size={24} className="text-[#8B5CF6]" />
-                              </div>
-                              <div className="flex flex-col justify-center">
-                                <div className="text-[11px] text-[#64748B] uppercase tracking-wider mb-1">
-                                  {row.fInicio && row.fInicio !== '-' ? (
-                                    <span>
-                                      <span className="font-semibold opacity-70">INICIO: {row.fInicio}</span>
-                                      <span className="mx-2 opacity-50">|</span>
-                                      <span className="font-black text-[#1E293B]">FIN: {row.fFin}</span>
-                                    </span>
-                                  ) : (
-                                    <span className="font-black text-[#1E293B]">FIN: {row.fFin}</span>
-                                  )}
-                                </div>
-                                {row.estadoDetalle && row.estadoDetalle !== 'No definido' && row.estadoDetalle !== '-' && (
-                                  <span className={"text-[22px] font-black tracking-tighter " + (row.isVencido ? "text-[#E11D48]" : "text-[#065F46]")}>
-                                    {row.estadoDetalle}
-                                  </span>
-                                )}
-                              </div>
+                            <div className="flex flex-col gap-1.5">
+                              <span className="text-[13px] font-black text-[#334155] flex items-center gap-2">
+                                <Clock size={16} className="text-[#A78BFA]" /> Fin: {row.fFin}
+                              </span>
+                              <span className="text-[11px] text-[#94A3B8] ml-6 font-semibold">Inició: {row.fInicio}</span>
+                              {row.estadoDetalle && row.estadoDetalle !== 'No definido' && row.estadoDetalle !== '-' && (
+                                <span className={"text-[11px] font-bold ml-6 mt-1 " + (row.isVencido ? "text-[#E11D48]" : "text-[#065F46]")}>
+                                  {row.estadoDetalle}
+                                </span>
+                              )}
                             </div>
                           </td>
                           <td className="px-8 py-7">
-                            <span className={"px-4 py-2 rounded-xl text-[11px] font-black border whitespace-nowrap shadow-sm uppercase tracking-wider " + row.colorClass}>
-                              {row.estado}
-                            </span>
+                            <div className="flex items-center gap-3">
+                              <span className={"px-4 py-2 rounded-xl text-[11px] font-black border whitespace-nowrap shadow-sm uppercase tracking-wider " + row.colorClass}>
+                                {row.estado}
+                              </span>
+                              {row.isVencido && (
+                                <div title="Atención requerida" className="bg-[#FFE4E6] p-2 rounded-xl shadow-inner shadow-rose-200">
+                                  <AlertTriangle className="w-4 h-4 text-[#E11D48] animate-bounce" />
+                                </div>
+                              )}
+                            </div>
                           </td>
                         </tr>
                       )) : (

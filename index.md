@@ -1,4 +1,3 @@
-[Dashboard_Inversiones_21-4-2026_0337 p. m..html](https://github.com/user-attachments/files/26946592/Dashboard_Inversiones_21-4-2026_0337.p.m.html)
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -25,14 +24,6 @@
     .delay-100 { animation-delay: 100ms; } .delay-200 { animation-delay: 200ms; } .delay-300 { animation-delay: 300ms; } .delay-400 { animation-delay: 400ms; }
     #fallback-error { display: none; background: #fee2e2; border: 2px solid #ef4444; padding: 20px; margin: 20px; border-radius: 12px; color: #9f1239; font-family: monospace; white-space: pre-wrap; }
   </style>
-</head>
-<body>
-  <div id="fallback-error"></div>
-  <div id="root">
-    <div style="display:flex; justify-content:center; align-items:center; height:100vh; color:#4F46E5; font-family:'Poppins', sans-serif; font-weight: bold; font-size: 1.5rem;">
-      <div style="animation: spin 1s linear infinite; margin-right: 15px; width: 30px; height: 30px; border: 4px solid #C4B5FD; border-top: 4px solid #6366F1; border-radius: 50%;"></div>
-      Construyendo Dashboard...
-    </div>
   </div>
 
   <style>@keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }</style>
